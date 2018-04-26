@@ -30,7 +30,7 @@ namespace Project
                       "~/Content/font-awesome.min.css",
                       "~/Content/site.css"));
 
-            bundles.Add(new ScriptBundle("~/Scripts/UserProfile.Index").Include(
+            bundles.Add(new ScriptBundle("~/Scripts/UserProfile_Index").Include(
                 "~/Scripts/UserProfile.Index.js"));
 
 
